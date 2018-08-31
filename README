@@ -1,5 +1,5 @@
-<h1>Moravian Daily Texts on your commandline
-</h1>
+Moravian Daily Texts on your commandline
+++++++++++++++++++++++++++++++++++++++++
 
 This tiny php command line tool shows the Moravian Daily text
 for the actual day.
